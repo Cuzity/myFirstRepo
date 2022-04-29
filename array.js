@@ -48,6 +48,8 @@ let person = {
     sayHello: () => console.log("hello")
 };
 
+
+console.log(person.sayHello())
 // console.log(person);
 
 // console.log(person.country);
@@ -67,9 +69,9 @@ let person = {
 
 // console.log(typeof[]);
 
-let arr = [23, 45, 88];
+// let arr = [23, 45, 88];
 
-console.log(arr)
+// console.log(arr)
 
 // arr.push(65);
 // arr.pop(65);
@@ -77,4 +79,4 @@ console.log(arr)
 
 // console.log(arr)
 
-arr.forEach((el) => console.log(el))
+// arr.forEach((el) => console.log(el))
